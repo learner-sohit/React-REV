@@ -1,0 +1,18 @@
+const HeroText = () => {
+  return (
+    <div className="p-4">
+      <h3 className="mb-7 text-6xl font-bold ">
+        Prospectice <br />
+        <span className="text-gray-600 r">customer </span>
+        <br />
+        segmentation
+      </h3>
+      <p className="text-lg font-medium text-gray-600">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, numquam
+        voluptates incidunt quam
+      </p>
+    </div>
+  );
+};
+
+export default HeroText;
